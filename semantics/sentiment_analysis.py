@@ -13,7 +13,7 @@ class SentimentAnalysis:
 
 
 
-    bad_texts = ['has joined the channel','has left the channel']
+    bad_texts = ['> has joined the channel','> has left the channel']
 
     def __init__(self,db):
 
